@@ -8,10 +8,6 @@
    - LICENSE
    - README.md
  - log
-	 - trace.log
-   
-### Execution examples
- - 
 
 # Changelog
  - [Version_1.0_2020-11-29](#Version_10_2020-11-29)
